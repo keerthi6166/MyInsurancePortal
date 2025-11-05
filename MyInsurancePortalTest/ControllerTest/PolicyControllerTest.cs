@@ -4,10 +4,6 @@ using MyInsurancePortal.DtoModels;
 using MyInsurancePortal.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Xunit;
 
 namespace MyInsurancePortalTest.ControllerTests
 {

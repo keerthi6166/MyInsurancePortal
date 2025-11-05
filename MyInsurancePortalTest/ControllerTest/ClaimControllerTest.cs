@@ -1,13 +1,9 @@
-﻿using Xunit;
-using Moq;
+﻿using Moq;
 using FluentAssertions;
 using Microsoft.AspNetCore.Mvc;
 using MyInsurancePortal.Controllers;
 using MyInsurancePortal.Interfaces;
 using MyInsurancePortal.DtoModels;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using System;
 
 namespace MyMyInsurancePortal.Tests.Controllers
 {
